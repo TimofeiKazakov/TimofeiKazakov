@@ -11,4 +11,7 @@
 
 
 ## 🙋‍♂️ About Me
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimofeiKazakov&show_icons=true&theme=radical)
+
 Learning to become Python Developer.
