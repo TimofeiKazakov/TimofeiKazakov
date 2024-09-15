@@ -4,3 +4,6 @@
 
 
 ![Static Badge](https://img.shields.io/badge/py-python-orange?style=plastic&logo=python)
+
+
+![Static Badge](https://img.shields.io/badge/-pythonanywhere-black?style=plastic&logo=pythonanywhere)
