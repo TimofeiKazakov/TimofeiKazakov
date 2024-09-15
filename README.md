@@ -7,3 +7,8 @@
 
 
 ![Static Badge](https://img.shields.io/badge/-pythonanywhere-black?style=plastic&logo=pythonanywhere)
+
+
+
+## 🙋‍♂️ About Me
+Learning to become Python Developer.
